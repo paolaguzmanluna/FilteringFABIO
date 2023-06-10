@@ -8,3 +8,6 @@ At this point, FABIO covers the production of 130 agriculture and food products 
 So, only the production of the commodity of interest amongts European countries (EU + UK) in the most recent year of the databased (i.e., 2013) was selected. 
 As a result, a file called "resultsMatlab.csv" is obtained. This file is then used in Part 2.
 
+Part 2 was done in Matlab. This was the programming platform used in Guzmán-Luna et al. (2023), which is the research to which this script corresponds. This script identifies the top 10 raw milk producers across the EU + UK. Later, this code also identifies the crops that are used to produce the raw milk in each of the 10 
+countries, as well as to identify the main suppliers of those countries (i.e., origin of the crops).
+
